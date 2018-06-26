@@ -1,0 +1,13 @@
+LOAD -> 18482 ms
+Query 1: -> 0 ms
+Query 2 -> 127 ms
+Query 3 -> 40 ms
+Query 4 -> 75 ms
+Query 5 -> 0 ms
+Query6 -> 52 ms
+Query 7 -> 39 ms
+Query 8 -> 2850 ms
+Query9 -> 4 ms
+Query 10 -> 0 ms
+Query 11 -> 98 ms
+CLEAN -> 0 ms
